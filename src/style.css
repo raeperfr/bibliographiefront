@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+}
+
+.navigation ul li{
+    list-style-type: none;
+    display: inline;
+}
+
+.navigation ul li a {
+    padding: 10px;
+}

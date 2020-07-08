@@ -1,0 +1,16 @@
+.articles {
+    width: 90%;
+    margin-left: 1%;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.test {
+    display: flex;
+    justify-content: space-between;
+
+}
